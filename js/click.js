@@ -88,11 +88,5 @@ $(document).ready(function(){
     }
   }); //end of click function
 
-  //attribution click
-  //$('#links').hide();
-
-  $('#attributions').click(function() {
-    $('#links').slideToggle();
-  });
 
 });

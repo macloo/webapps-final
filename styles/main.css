@@ -1,6 +1,7 @@
 body {
   background-color: #F0EAD6;
   font-family: 'Encode Sans Condensed', 'Gill Sans MT', 'Arial', sans-serif;
+  font-size: 1rem;
 }
 header, footer {
   font-family: 'Rokkitt', 'Palatino Linotype', 'Georgia', serif;
@@ -9,6 +10,7 @@ header, footer {
 h1 {
   font-size: 3rem;
   text-transform: uppercase;
+  padding-top: 1rem;
 }
 header p {
   font-size: 1.5rem;
